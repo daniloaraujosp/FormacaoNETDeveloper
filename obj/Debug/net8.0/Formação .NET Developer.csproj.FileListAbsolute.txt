@@ -1,0 +1,14 @@
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\bin\Debug\net8.0\Formação .NET Developer.exe
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\bin\Debug\net8.0\Formação .NET Developer.deps.json
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\bin\Debug\net8.0\Formação .NET Developer.runtimeconfig.json
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\bin\Debug\net8.0\Formação .NET Developer.dll
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\bin\Debug\net8.0\Formação .NET Developer.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.dll
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\refint\Formação .NET Developer.dll
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\Formação .NET Developer.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Documents\_DIO\Formação .NET Developer\obj\Debug\net8.0\ref\Formação .NET Developer.dll
