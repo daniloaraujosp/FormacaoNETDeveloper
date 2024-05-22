@@ -12,3 +12,4 @@ C:\Users\danil\OneDrive\Documents\_DIO\FormacaoNETDeveloper\obj\Debug\net8.0\ref
 C:\Users\danil\OneDrive\Documents\_DIO\FormacaoNETDeveloper\obj\Debug\net8.0\FormacaoNETDeveloper.pdb
 C:\Users\danil\OneDrive\Documents\_DIO\FormacaoNETDeveloper\obj\Debug\net8.0\FormacaoNETDeveloper.genruntimeconfig.cache
 C:\Users\danil\OneDrive\Documents\_DIO\FormacaoNETDeveloper\obj\Debug\net8.0\ref\FormacaoNETDeveloper.dll
+C:\Users\danil\OneDrive\Documents\_DIO\FormacaoNETDeveloper\obj\Debug\net8.0\FormacaoNETDeveloper.sourcelink.json

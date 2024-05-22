@@ -7,13 +7,14 @@ namespace FormacaoNETDeveloper.Models //Organização das classes
 {
     public class Pessoa //Classe
     {
-        public string Nome { get; set; } //Propriedades - Atributos
-        public int Idade { get; set; } // get - pegar o valor, set - atribuir o valor
+        public string nome { get; set; } //Propriedades - Atributos
+        public int idade { get; set; } // get - pegar o valor, set - atribuir o valor
+        public string nomeRepresentanteLegalDaPessoaFisica { get; set; } //Evitar abreviações ex: NomeRepLegal - correto: NomeRepresentanteLegal
 
-        public void Apresentar() //Função - Método
+        public void apresentar() //Função - Método
         {
             //Parâmetro ou agurmento
-            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos"); // Console - Classe, WriteLine - Método
+            Console.WriteLine($"Olá, meu nome é {nome}, e tenho {idade} anos."); // Console - Classe, WriteLine - Método
         }
     }
 }
