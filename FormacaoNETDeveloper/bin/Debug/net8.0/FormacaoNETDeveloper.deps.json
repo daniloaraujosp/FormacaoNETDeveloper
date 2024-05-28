@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormacaoNETDeveloper/1.0.0": {
+        "dependencies": {
+          "FormacaoNETDeveloper.Common": "1.0.0"
+        },
+        "runtime": {
+          "FormacaoNETDeveloper.dll": {}
+        }
+      },
+      "FormacaoNETDeveloper.Common/1.0.0": {
+        "runtime": {
+          "FormacaoNETDeveloper.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormacaoNETDeveloper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormacaoNETDeveloper.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
